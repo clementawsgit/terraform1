@@ -1,8 +1,8 @@
 
 provider "aws" {
   region = "us-east-1"
-  access_key = ""
-  secret_key = ""
+  access_key = "AKIAWCZC5ZCVXG2FXLE2"
+  secret_key = "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"
 }
 
 # Create a vpc network
